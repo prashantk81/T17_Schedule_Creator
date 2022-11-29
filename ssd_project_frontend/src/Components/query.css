@@ -1,0 +1,29 @@
+.pp{
+  margin-top: -70px;
+}
+
+.calen
+{
+  display: flex;
+}
+.heading
+{
+  width: 100%;
+  text-align: center;
+  margin-left: 100px;
+}
+.btn
+{
+  width: 15%;
+}
+.styleforbtnback
+{
+  background-color: rgb(173, 164, 164);
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 40%;
+    font-size: 25px;
+
+}

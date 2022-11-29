@@ -1,0 +1,78 @@
+.formbody{
+    width: 1280px;
+    min-height: 800px;
+    padding: 10px;
+    margin-top: -70px;
+    margin-bottom: -70px;
+    font-style: italic;
+    color:rgb(201, 104, 104);
+    background-image: linear-gradient(#080d39 , #004e92);
+}
+.main{
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+}
+.line{
+    width: 40%;
+}
+.div2{
+    padding-bottom: 20px;
+    
+}
+
+.form-control{
+    background-color: rgb(213, 213, 213);
+    margin-left: 10px;
+}
+.buttonAdd{
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+.submitBT{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.pop{
+    background-color: rgb(135, 113, 113);
+}
+.head
+{
+    font-size: 50px;
+    margin-left: 35%;
+}
+
+.submitbtn{
+    background-color: rgb(236, 54, 54);
+    width: 100px;
+    height: 50px;
+    float: right;
+    border-radius: 10px;
+}
+.form-row1{
+    display: flex;
+}
+.eventdiv
+{
+    margin-top: 30px;
+    width: 90%;
+}
+.allschedule
+{
+    background-color: rgb(5, 28, 91);
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 100px;
+    height: 700px;
+    margin-bottom: 30px;
+
+}
+.headline
+{
+    color: rgb(151, 137, 137);
+    
+}

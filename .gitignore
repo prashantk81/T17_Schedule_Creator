@@ -1,0 +1,26 @@
+ssd_project_backend/node_modules
+ssd_project_backend/package-lock.json
+ssd_project_backend/.env
+
+# dependencies
+ssd_project_frontend/node_modules
+ssd_project_frontend/.pnp
+ssd_project_frontend/pnp.js
+ssd_project_frontend/package-lock.json
+
+# testing
+ssd_project_frontend/coverage
+
+# production
+ssd_project_frontend/build
+
+# misc
+ssd_project_frontend/.DS_Store
+ssd_project_frontend/.env.local
+ssd_project_frontend/.env.development.local
+ssd_project_frontend/.env.test.local
+ssd_project_frontend/.env.production.local
+
+ssd_project_frontend/npm-debug.log*
+ssd_project_frontend/yarn-debug.log*
+ssd_project_frontend/yarn-error.log*

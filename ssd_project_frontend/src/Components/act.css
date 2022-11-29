@@ -1,0 +1,27 @@
+.st_col{
+    padding-bottom: 20px;
+}
+.services{
+    border: 5px,solid;
+    border-color: aqua;
+    border-radius: 5px;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    padding: 14px;
+}
+
+.int{
+    align-items: center;
+    justify-content: center;
+}
+.duration{
+    margin-left: 0px;
+}
+.remove{
+    background-color: rgb(236, 54, 54);
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 40%;
+}
